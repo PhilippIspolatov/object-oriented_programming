@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Library/glui-2.35/src/include/GL/glui.h
+GL/freeglut.h
+-
+GL/openglut.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+string
+-
+vector
+-
+
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/main.cpp
+iostream
+-
+GLUT/glut.h
+-
+main.h
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/main.h
+math.h
+-
+fstream
+-
+/Library/glui-2.35/src/include/GL/glui.h
+-
+
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/main.h
+

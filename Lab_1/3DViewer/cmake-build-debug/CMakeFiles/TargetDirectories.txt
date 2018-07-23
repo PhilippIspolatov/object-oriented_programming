@@ -1,0 +1,3 @@
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/filipp/OneDrive/ИУ7/Sem_4/ООП/3DViewer/cmake-build-debug/CMakeFiles/untitled.dir
